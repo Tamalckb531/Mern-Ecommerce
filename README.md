@@ -1,6 +1,5 @@
 
-##E-commerce Web-AppE-commerce Web-App
-Sep 2023 - Oct 2023Sep 2023 - Oct 2023
+
 I developed this industry standard e-commerce platform using cutting-edge technologies, including React, Node.js, Redux, and MongoDB. This project represents a comprehensive e-commerce solution with essential features for seamless online shopping.
 
 Key functionalities include:
