@@ -2,6 +2,8 @@
 
 I developed this industry standard e-commerce platform using cutting-edge technologies, including React, Node.js, Redux, and MongoDB. This project represents a comprehensive e-commerce solution with essential features for seamless online shopping.
 
+Link: https://mern-ecommerce-coral.vercel.app/login
+
 Key functionalities include:
 
 User Account Management: Users can create accounts, securely log in, and manage their profiles.
